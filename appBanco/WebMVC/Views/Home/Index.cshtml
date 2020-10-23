@@ -1,0 +1,14 @@
+﻿@model IEnumerable<AppBancoDominio.Usuario>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2> Cadastro de usuarios </h2>
+
+<ul>
+    @foreach (var usuario in Model)
+    {
+        <li>@usuario.nm_usuario</li>
+    }
+</ul>
+
