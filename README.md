@@ -4,8 +4,10 @@
   <li> Faça o download do projeto </li>
   <li> Descompacte </li>
   <li> Execute os scripts do banco (caso não tenha) </li>
+  <li> Note que criei um usuário especifico para acessar o banco da aplicação (em vez do root) </li>
+  <li> Abra o projeto no Visual Studio </li>
   <li> Verifique a coerencia do banco com a aplicação </li>
-  <li> Caso você use outras nomenclaturas, arrume. </li>
+  <li> Caso você use outras nomenclaturas, arrume </li>
 </ul>
 <h3> :bug: Bugs </h3>
 <ul>
