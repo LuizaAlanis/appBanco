@@ -1,9 +1,15 @@
 <h1> appBanco </h1>
-<h3> Passo a passo </h3>
+<h3> :book: Passo a passo </h3>
 <ul>
   <li> Faça o download do projeto </li>
   <li> Descompacte </li>
   <li> Execute os scripts do banco (caso não tenha) </li>
   <li> Verifique a coerencia do banco com a aplicação </li>
   <li> Caso você use outras nomenclaturas, arrume. </li>
+</ul>
+<h3> :bug: Bugs </h3>
+<ul>
+  <li> Faça o download do projeto </li>
+  <li> Notei que o meu projeto parou de funcionar ao passar para MVC </li>
+  <li> Portanto, qualquer observação seria de grande ajuda </li>
 </ul>
